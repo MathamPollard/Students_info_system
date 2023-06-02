@@ -1,7 +1,7 @@
 # Students_info_system
 A Students Information Management System based on Qt Designer and PyCharm
 
-![avatar](Students_info_system/测试截图/屏幕截图 2021-12-15 214415.jpg)
+![avatar](./Students_info_system/测试截图/屏幕截图 2021-12-15 214415.jpg)
 注意！Python解释器不能有中文，否则会运行不了。在PyCharm->文件->设置->项目->Python解释器中可以修改解释器。简单地讲，一个python.exe就是一个解释器。
 
 本项目是我和另一个小组成员的软件工程课设项目。由于当时临近期末，时间仓促，所以在界面方面抱着能用就行的心态，没有进行很美观的设计。由于涉及到的数据较简单，所以我们并没有使用数据库，而是直接用txt文本存储数据。
